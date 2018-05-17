@@ -1,0 +1,6 @@
+Revision history for Perl extension Plack::Handler::Apache2::FixEnv.
+
+0.01  Thu May 17 11:49:19 2018
+	- original version; created by h2xs 1.23 with options
+		-A -n Plack::Handler::Apache2::FixEnv -b 5.10.1
+
